@@ -1,4 +1,4 @@
-# Two Level Capital dApp 
+# Two Level Capital dApp v0_2
 Aquí contiene los archivos de la version de la dApp (0.2) con submisión de cambios hasta 30 octubre 2026
 
 
