@@ -2,7 +2,7 @@
 Aquí contiene los archivos de la version de la dApp (0.2) con submisión de cambios hasta 30 octubre 2026
 
 
-![Texto alternativo](url-de-la-imagen)
+![Texto alternativo]( Images/Screenshots/Logindapp.jpg)
 
 
 # build_tools — del prototipo (.jsx) a la página publicada (.html)
