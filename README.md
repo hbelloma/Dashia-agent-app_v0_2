@@ -5,7 +5,7 @@ Aquí contiene los archivos de la version de la dApp (0.2) con submisión de cam
 ![wellcome to dApp]( Images/Screenshots/Logindapp.jpg)
 
 
-versión provisional (el link puede cambiar o estar obsoleto y no corresponder ) en el siguiente link:
+La versión provisional (el link puede cambiar o estar obsoleto y no corresponder ) puede consultarse en el siguiente link:
 [Link to artifact Claude:](https://claude.ai/artifact/Gk9e1KA2xFPPKrzdhz4ARA)
 
 
