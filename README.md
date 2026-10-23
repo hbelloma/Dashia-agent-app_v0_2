@@ -2,7 +2,11 @@
 Aquí contiene los archivos de la version de la dApp (0.2) con submisión de cambios hasta 30 octubre 2026
 
 
-![Texto alternativo]( Images/Screenshots/Logindapp.jpg)
+![wellcome to dApp]( Images/Screenshots/Logindapp.jpg)
+
+
+versión provisional (el link puede cambiar o estar obsoleto y no corresponder ) en el siguiente link:
+[Link to artifact Claude:](https://claude.ai/artifact/Gk9e1KA2xFPPKrzdhz4ARA)
 
 
 # build_tools — del prototipo (.jsx) a la página publicada (.html)
